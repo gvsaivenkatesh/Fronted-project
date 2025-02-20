@@ -1,0 +1,59 @@
+.veb{
+    font-size: 90px;
+    color: green;  
+}
+.h{
+    display:flex;
+    flex-direction: row;
+   
+}
+.ve{
+    font-size: 60px;
+   color:black;
+}
+.nn{
+    justify-content:space-around;
+    height:50px;
+    width: 175px;
+    font-size: 30px;
+    font-style: serif;
+}
+
+.lo{justify-content: right;
+    font-size: medium;
+      height: 50px;
+      width: 100px;
+      color:rgb(41, 143, 41);
+    }
+
+.search-bar {
+    background-color: #f2eff6;
+    padding: 20px 0 ;
+    text-align: center;
+    
+}
+.search-bar:hover{
+    background-color:black;  
+}
+
+.search-bar input {
+    width: 70%;
+    padding: 10px;
+    font-size:16px;
+}
+
+.search-bar button {
+    padding: 10px 20px;
+    background-color: #21fc19;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.vv {
+    font-size: 30px;
+    text-align: center;
+}
+.vv ul{
+list-style-type: none;
+display: flex;
+}
